@@ -1,6 +1,17 @@
 Changelog
 =========
 
+v2.0.5 (2015-02-19)
+----
+Minor bug fix for empty Bulk
+
+v2.0.4 (2015-01-14)
+----
+This is a minor feature release.
+
+- Added the ability to cast a `Response` to a `(u)byte[]` stream
+- Tested on DMD 2.066.1
+
 v2.0.2 (2014-10-12)
 -------------------
 This is a minor bug fix and feature release.
